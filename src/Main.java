@@ -32,6 +32,7 @@ public class Main {
             }else{
                 System.out.println("есть сидячие места");
             }
+
         }
     }
 }
